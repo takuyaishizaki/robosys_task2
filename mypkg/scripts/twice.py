@@ -6,7 +6,7 @@ n = 0
 
 def cd(message):
 	global n
-	n = message.data*
+	n = message.data*7
 
 if __name__ == '__main__':
 	rospy.init_node('twice')
