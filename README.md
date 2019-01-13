@@ -5,7 +5,7 @@
 主な目的はraspberry piを用いてrosの実行
 変更点
 - ブラウザ上に７の倍数を表示
-
+- ブラウザに表示される"not received"の文字が赤色
 
 ```
 $ roslaunch mypkg mypkg.launch
